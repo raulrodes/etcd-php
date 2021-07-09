@@ -1,5 +1,5 @@
 {
-  "name": "start-point/etcd-php",
+  "name": "start-point-fix/etcd-php",
   "type": "library",
   "description": "PHP client for Etcd v3",
   "keywords": ["etcdv3", "etcd", "etcd-client", "etcd-php"],
